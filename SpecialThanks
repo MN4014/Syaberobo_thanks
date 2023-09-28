@@ -1,0 +1,12 @@
+しゃべロボ作成にあたり使用した機能等の提供者様・機能名
+
+システム系
+うな技研 様
+・「Chatdollkit」
+
+Unity機能
+・Burst
+・UniTask
+・uLipsync
+・For VRM model:UniVRM(v0.89.0) and VRM Extension
+・For Unity 2019 or ealier:JSON.NET For Unity from Package Manager
